@@ -3,7 +3,42 @@
     "title": "Add New Developer Tools To DevToolset",
     "description": "How to add new developer tools to DevToolset",
     "date": "2024-08-14T13:14:40.737Z",
-    "lastModified": "2024-08-14T13:14:40Z",
+    "lastModified": "2024-08-17T15:25:39Z",
     "path": "data/md/add-new-developer-tools.md"
+  },
+  {
+    "title": "Add New Locale Support",
+    "description": "How to add new locale support to DevToolset",
+    "date": "2024-08-14T23:14:40.737Z",
+    "lastModified": "2024-08-17T15:25:39Z",
+    "path": "data/md/add-new-locale.md"
+  },
+  {
+    "title": "Change Default Locale",
+    "description": "How to change the default locale of DevToolset",
+    "date": "2024-08-14T23:20:40.737Z",
+    "lastModified": "2024-08-17T15:25:39Z",
+    "path": "data/md/change-default-locale.md"
+  },
+  {
+    "title": "Deploy Your Own DevToolset",
+    "description": "How to Deploy Your Own DevToolset",
+    "date": "2024-08-15T01:14:40.737Z",
+    "lastModified": "2024-08-14T17:05:53Z",
+    "path": "data/md/deploy-own-devtoolset.md"
+  },
+  {
+    "title": "Theming DevToolset",
+    "description": "How to theme DevToolset",
+    "date": "2024-08-17T13:20:40.737Z",
+    "lastModified": "2024-08-17T05:19:49Z",
+    "path": "data/md/theming-devtoolset.md"
+  },
+  {
+    "title": "Write New Article",
+    "description": "How to write a new article",
+    "date": "2024-08-17T13:10:40.737Z",
+    "lastModified": "2024-08-17T05:19:49Z",
+    "path": "data/md/write-new-article.md"
   }
 ]
