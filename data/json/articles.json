@@ -28,6 +28,13 @@
     "path": "data/md/deploy-own-devtoolset.md"
   },
   {
+    "title": "发现一个好用的打包工具",
+    "description": "一个把任何网页打包成桌面程序的开源程序",
+    "date": "2024-09-17T07:47:43.945Z",
+    "lastModified": "2024-09-17T07:47:44Z",
+    "path": "data/md/pake-tool.md"
+  },
+  {
     "title": "Theming DevToolset",
     "description": "How to theme DevToolset",
     "date": "2024-08-17T13:20:40.737Z",
